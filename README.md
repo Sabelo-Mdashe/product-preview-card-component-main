@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-69amT6W7vx)
+- Netlify URL: (https://lucky-buttercream-dcdff3.netlify.app/)
 
 ## My process
 
@@ -57,4 +57,3 @@ I want to improve my CSS skills.
 - Website - [Sabelo Mdashe](http://sabelomdashe.co.za)
 - Frontend Mentor - [@Sabelo-Mdashe](https://www.frontendmentor.io/profile/Sabelo-Mdashe)
 - Github - [@Sabelo-Mdashe](https://github.com/Sabelo-Mdashe)
-- Netlify - [@]()
